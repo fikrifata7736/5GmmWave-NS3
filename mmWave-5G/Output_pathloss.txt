@@ -1,0 +1,16 @@
+Waf: Entering directory `/home/fikrifatafauzi/ns-allinone-3.29/build'
+Waf: Leaving directory `/home/fikrifatafauzi/ns-allinone-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.206s)
+lossModel 0x55ce6f633fe0
+Simulation running for 0.9 seconds
+************* Path loss changing to 100 *************
+************* Path loss changing to 105 *************
+************* Path loss changing to 110 *************
+************* Path loss changing to 115 *************
+************* Path loss changing to 120 *************
+************* Path loss changing to 125 *************
+************* Path loss changing to 130 *************
+************* Path loss changing to 135 *************
+************* Path loss changing to 140 *************
+
